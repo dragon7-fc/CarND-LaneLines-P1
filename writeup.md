@@ -46,7 +46,7 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 ### 2. Identify potential shortcomings with your current pipeline
 
 
-One potential shortcoming would be the drawed line would be disappear in a little moment when the road is not much even or there is a strong sunshine on the road.
+One potential shortcoming would be the drawed line would be disappear in a little moment when the road is not much even or there is a strong sunshine on the road.
 
 Another shortcoming could be the motion of the drawed line would not that smooth.
 
